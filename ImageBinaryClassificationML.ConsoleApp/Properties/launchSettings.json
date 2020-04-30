@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChipBorderRecognitionML.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\DVSAV\\Projects\\dotNET\\MachineLearning\\TrainingSet (Low Resolution).tsv\" \"C:\\DVSAV\\Projects\\dotNET\\MachineLearning\\TrainingSet (Low Resolution).zip\""
+    }
+  }
+}
